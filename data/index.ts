@@ -90,7 +90,7 @@ export const projects = [
 		id: 3,
 		title: 'NFT Collection DApp',
 		des: 'A DApp that gives NFT drops to wallet and viewable in Opensea',
-		img: '/3.svg',
+		img: '/p3.svg',
 		iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/c.svg'],
 		link: 'https://github.com/ryzncodes/nft-collection-page',
 	},
